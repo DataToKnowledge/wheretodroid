@@ -1,5 +1,5 @@
 /**
- * WhereToDroid
+ * WhereToLive
  * @copyright DataToKnowledge S.r.l.s.- September 2014 - All Rights Reserved.
  * Unauthorized copying of this file, via any medium is strictly prohibited.
  * @license Proprietary and confidential
